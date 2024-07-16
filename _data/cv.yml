@@ -9,9 +9,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S.
+    - title: B.S. Mathematics of Computation, Data Science Engineering Minor
       institution: University of California, Los Angeles
-      year: 2026
+      year: June 2026
       description:
         - Description 1.
         - Description 2.
@@ -19,29 +19,20 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Math Peer Counselor
+      institution: Math Success Program, UCLA Community Programs Office
+      year: April 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Engineered MSP's growth from re-launch to 200+ sessions per quarter with strategic outreach and student-focused initiatives
+        - Mentoring and supporting undergraduate students from underrepresented communities in mastering foundational mathematical concepts, improving their confidence & academic performance
+        - Designing and developing comprehensive notes, problem sets and other materials tailored to clarify challenging concepts
+    - title: Undergraduate Student Researcher
+      institution: Computer Security and Privacy Lab, UCLA
+      year: Jan 2024 - Present
       description:
         - Description 1.
         - Description 2.
@@ -92,4 +83,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Cubing (2x2, 3x3, Pyraminx), Digital Art, Photography, Bullet Journaling
