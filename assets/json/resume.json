@@ -22,6 +22,29 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of California, Los Angeles (UCLA)",
+      "location": "Los Angeles, CA",
+      "url": "",
+      "area": "Mathematics of Computation & Data Science Engineering Minor",
+      "studyType": "B.S.",
+      "startDate": "Sept 2022",
+      "endDate": "June 2026",
+      "score": "10",
+      "courses": ["Machine Learning & Data Science", "Computer Organization", "Calculus of Several Variables", "Discrete Structures", "Applied Numerical Methods", "Linear Algebra and Applications"]
+    }, 
+    {
+      "institution": "Podar International School (IB & CAIE)",
+      "location": "Mumbai, India",
+      "url": "",
+      "area": "Cambridge IGCSE and Cambridge AS & A Levels",
+      "studyType": "High School Diploma",
+      "startDate": "Mar 2017",
+      "endDate": "May 2022",
+      "score": "10"
+    }
+  ],
   "work": [
     {
       "name": "Math Success Program, UCLA Community Programs Office",
@@ -30,7 +53,18 @@
       "startDate": "April 2023",
       "endDate": "Present",
       "summary": "Engineered MSP's growth from re-launch to 200+ sessions per quarter with strategic outreach and student-focused initiatives",
-      "highlights": ["Relativity"]
+      "highlights": []
+    }
+  ],
+  "research": [
+    {
+      "name": "Computer Security & Privacy Lab, UCLA",
+      "position": "Undergraduate Student Researcher",
+      "url": "",
+      "startDate": "April 2023",
+      "endDate": "Present",
+      "summary": "Engineered MSP's growth from re-launch to 200+ sessions per quarter with strategic outreach and student-focused initiatives",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -41,31 +75,38 @@
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of California, Los Angeles (UCLA)",
-      "location": "Los Angeles, California",
-      "url": "",
-      "area": "Mathematics of Computation & Data Science Engineering Minor",
-      "studyType": "B.S.",
-      "startDate": "September 2022",
-      "endDate": "June 2026",
-      "score": "10",
-      "courses": ["Machine Learning & Data Science", "Computer Organization", "Calculus of Several Variables", "Discrete Structures", "Applied Numerical Methods", "Linear Algebra and Applications"]
+      "summary": "Volunteered to create IGCSE review notes for IGCSE Additional Mathematics & IGCSE French",
+      "highlights": [""]
+
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Outstanding Cambridge Learner Awards for A Level Performance",
+      "date": "2022",
+      "awarder": "Cambridge Assessment International Education (CAIE)",
+      "url": "https://www.cambridgeinternational.org/support-and-training-for-schools/support-for-teachers/results/outstanding-cambridge-learner-awards/",
+      "summary": "Outstanding Cambridge Learner Awards recognise exceptional learner achievement in Cambridge examinations around the world to celebrate and recognise the success of high-performing Cambridge learners.",
+      "highlights" : ["Top in the World for November 2021 A Level Mathematics", "Top in India for November 2021 A Level Physics", "Best Across 3 subjects for November 2021 - First place in India"]
+    }, 
+    {
+      "title": "Queen's Commonwealth Essay Competition (QCEC) Awards",
+      "date": "2016 - 2022",
+      "awarder": "Royal Commonwealth Society (RCS)",
+      "url": "https://www.royalcwsociety.org/essay-competition",
+      "summary": "A number of Gold Finalist, Gold, Silver and Bronze Awards are given in both the Senior and Junior categories, rewarding excellence in writing.",
+      "highlights" : ["Gold Finalist Award (2022): Nominated as one of 154 entries out of 26,322 entries for its consideration to be awarded the Senior Winner or Runner Up prize", 
+      "Gold Finalist Award (2021 & 2019)", "Gold Award (2016 & 2017)", " Silver Award (2018)", "Bronze Award (2020)"]
+    }, 
+    {
+      "title": "Cambridge Learner Awards for Highest Mark in India (IGCSE)",
+      "date": "2019-2020",
+      "awarder": "Cambridge Assessment International Examinations (CAIE)",
+      "url": "https://www.cambridgeinternational.org/Images/698184-outstanding-cambridge-learner-awards-guide-for-schools.pdf",
+      "summary": "Outstanding Cambridge Learner Awards recognise exceptional learner achievement in Cambridge examinations around the world to celebrate and recognise the success of high-performing Cambridge learners.",
+      "highlights" : ["IGCSE Additional Mathematics (100%)", "IGCSE Physics (99%)", "IGCSE Chemistry (99%)", "IGCSE English Language (98%)", "IGCSE French (98%)"]
+    }  
+    
   ],
   "certificates": [
     {
@@ -74,41 +115,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -136,28 +142,40 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages/Libaries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "MATLAB",
+        "C++",
+        "LaTeX",
+        "SKlearn",
+        "PyTorch", 
+        "Keras",
+        "Pandas"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "French",
+      "fluency": "Intermediate",
+      "icon": ""
+    }, 
+    {
+      "language": "Marathi",
+      "fluency": "Native Speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker",
       "icon": ""
     }
   ],
