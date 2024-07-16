@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Asmi kawatkar",
-    "label": "UCLA - Mathematics of Computation Major, Data Science Engineering Minor",
-    "image": "",
+    "education": "UCLA - Mathematics of Computation Major, Data Science Engineering Minor",
+    "image": "prof_pic.jpg",
     "email": "asmikawatkar12 at g dot ucla dot edu",
     "phone": "",
     "url": "",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "330 De Neve Drive",
       "postalCode": "90024",
