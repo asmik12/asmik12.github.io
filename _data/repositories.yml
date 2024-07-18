@@ -1,8 +1,3 @@
-github_users:
-  - asmik12
-
-repo_description_lines_max: 2
-
 github_repos:
-  - MSP-Resources
-  - Writing-Portfolio
+  - https://github.com/asmik12/condense.git
+  - https://github.com/asmik12/MSP-Resources.git

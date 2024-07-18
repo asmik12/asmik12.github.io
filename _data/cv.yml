@@ -25,7 +25,7 @@
   contents:
     - title: Math Peer Counselor
       institution: Math Success Program, UCLA Community Programs Office
-      year: April 2023 - Present
+      year: Apr 2023 - Present
       description:
         - Engineered MSP's growth from re-launch to 200+ sessions per quarter with strategic outreach and student-focused initiatives
         - Mentoring and supporting undergraduate students from underrepresented communities in mastering foundational mathematical concepts, improving their confidence & academic performance
@@ -37,12 +37,6 @@
         - Description 1.
         - Description 2.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
