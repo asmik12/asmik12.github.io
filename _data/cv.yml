@@ -17,24 +17,45 @@
         - Relevant Coursework: 
             - Computer Science: Machine Learning & Data Science, Computer Organization
             - Mathematics:Calculus of Several Variables, Discrete Structures, Applied Numerical Methods, Linear Algebra and Applications
+    - title: Cambridge International IGCSE & A Levels
+      institution: Podar International School, IB & CAIE (Mumbai, India)
+      year: May 2022
+
+- title: Technical Skills
+  type: 
+  contents:
+    - title: Coding Languages
 
 - title: Experience
   type: time_table
   contents:
     - title: Math Peer Counselor
+      link: https://www.instagram.com/msp_ucla
       institution: Math Success Program, UCLA Community Programs Office
       year: Apr 2023 - Present
       description:
         - Engineered MSP's growth from re-launch to 200+ sessions per quarter
         - Mentoring  undergrauates from underrepresented communities in mastering foundational mathematical concepts
         - Designing and developing comprehensive notes, problem sets and other materials tailored to clarify challenging concepts
-    - title: Undergraduate Student Researcher
-      institution: Computer Security and Privacy Lab, UCLA
-      year: Jan 2024 - Present
+    - title: ML/AI Tech Fellow
+      institution: Break Through Tech AI, UCLA
+      year: May 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-
+        - Completing rigorous eCornell coursework in machine learning, achieving proficiency in Python and scikit-learn
+        - Mastering skills in data preprocessing, model optimization & evaluation
+    - title: Chief of Staff
+      institution: Office of the International Student Representative (ISR), Undergraduate Students Association (USAC)
+      year: May 2024 - Present
+      description: 
+        - Previously Senior Campaign Manager for ISR candidate (achieved decisive victory, securing ~2000 votes)
+        - Currently collaborating & liasing with prominent university organizations like Dashew Center & CAPS to advocate for international student needs
+    - title: Director, Hacker Operations & Experience Team, LA Hacks 2025
+      institution: LA Hacks
+      year: May 2024 - Present
+      description: 
+        - Previously HackOps Co-ordinator (LA Hacks 2023 & 2024)
+        - Successfully executed a 36-hour hackathon which hosted 1000+ attendees, and saw the submission of 171 projects
+        - Developing a new sponsorship packet and crafting compelling pitches to attract increased sponsorship for LA Hacks 2025
 
 - title: Honors and Awards
   type: time_table

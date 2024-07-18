@@ -1,8 +1,8 @@
-github_users:
-  - asmik12
+#github_users:
+#  - asmik12
 
 #repo_description_lines_max: 2
 
-github_repos:
-  - condense.git
-  - MSP-Resources.git
+#github_repos:
+#  - condense.git
+#  - MSP-Resources.git
