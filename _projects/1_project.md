@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Hear My Voice
+description: Telling stories we care about.
 importance: 1
-category: work
-related_publications: true
+category: fun
+related_publications: false
+img: /assets/img/HearMyVoiceBG.png
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+First ever edition of Student Anthology - a compilation of writings on topics of social significance
+ranging from Climate Change to Social Issues & Current Affairs. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -79,3 +69,7 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+<div class="row justify-content-sm-center mt-5">
+    <iframe src="/assets/pdf/HearMyVoice.pdf" width="100%" height="600px"></iframe>
+</div>
