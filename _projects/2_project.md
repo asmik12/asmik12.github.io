@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Missing Piece
-description: Problem Solving Sessions - "Be a part of something bigger"
+description: Problem Solving Sessions
 img: assets/img/TMP_Logo.jpg
 importance: 2
 category: fun
