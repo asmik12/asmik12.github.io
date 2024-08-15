@@ -14,8 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I want to harness the power of Machine Learning and AI-powered tools to make quality education accessible, to derive actionable insights from climate data, to analyze and mitigate emerging cyber risk, and ultimately drive positive change.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Current research interests: Machine Learning/AI/Deep Learning, Watermarking for AI Generated Content, Large Language Models, Attentive Mechanisms, Climate Modelling
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Professional interests: AI for EdTech (to make education more accessible, equitable and personalized for learners of all levels), AI for FinTech (using ML models to understand financial risk and model futures), Cybersecurity in AI (Developing defenses against adversarial attacks, Watermarking for AI generated media)
+
+Stuff I love to do: LEGO, cubing (2x2x2 or Pyraminx, not a fan of 3x3x3!), photography, reading fiction, writing, bullet journalling
