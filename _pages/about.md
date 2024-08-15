@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: lore
 permalink: /
 subtitle: UCLA, Mathematics of Computation & Data Science Engineering
 
