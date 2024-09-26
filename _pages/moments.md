@@ -3,7 +3,7 @@ layout: page
 permalink: /moments/
 title: moments
 description: The world through my eyes.
-nav: true
+nav: false
 
 nav_order: 6
 ---
